@@ -13,10 +13,10 @@
 12321
 1231
 1231
-123
-1231
-123
-1
+- 123
+- 1231
+- 123
+- 1
 23123123
 # 📖 Educations
 - *2022.09 - Present*, Undergraduate, China Three Gorges University, Yichang.
