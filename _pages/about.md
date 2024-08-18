@@ -3,13 +3,11 @@
 
 # 📝 Publications 
 
-# 🎖 Honors and Awards
-
 # 📖 Educations
 - *2022.09 - Present*, Undergraduate, China Three Gorges University, Yichang.
 - *2019.09 - 2022.06*, High School, Hanchuan No.1 High School, Hanchuan.
 
-# 💬 Invited Talks
 
 
-# 💻 Internships
+
+
